@@ -1,4 +1,5 @@
 # file_reader
+Simple file reader program
 
 Install Simple Dynamic Strings library (sds)
 ```
